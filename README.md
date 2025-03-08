@@ -1,7 +1,10 @@
-TNMplotV2
-TNMplot.com, a web-based platform integrating RNA-Seq and gene-chip data from 56,938 samples, facilitates differential gene expression analysis across normal, primary tumor, and metastatic tissues, enabling comprehensive analysis of gene expression changes across 22 tumor types with publication-ready visualizations. 
-Here we present an updated version of the database behind TNMplot. The new tool provides a unique feature for identifying progression-related genes through stage-based expression comparison. This analysis includes data from 4,521 patient samples, encompassing breast (n = 2,331), colorectal (n = 648), skin (n = 82), prostate (n = 61), and lung (n = 1,399) cancer cases.
-In addition, new and extended visualization tools embrace a pan-cancer dot matrix for simultaneous visualization of multiple tissue types and genes. We also implemented several multi-gene analysis tools, including density plot, gene vs gene correlation, correlation matrix, correlation profile analysis, gene signature analysis, and targetgram analysis. A unique competence of TNMplot is the ability to analyze gene expression using RNA-seq and gene chip data individually, enabling independent validation across diverse patient populations. 
-In conclusion, the updated TNMplot platform provides a comprehensive starting point for transcriptomic analysis for oncology-related basic, pharmacological, and translational research.
+## Details
+TNMplot is a tool for the comparison of normal, tumor and metastatic gene expression data. It aims to provide an easy to use tool for everyone.
 
-the platfrom is available at: https://tnmplot.com/
+We aimed to enhance the TNMplot tool by expanding the database to include stage-specific analysis, correlation analysis, and the ability to analyse multiple genes simultaneously. By incorporating these features, we aimed to provide users with a more comprehensive platform for transcriptome-based data analysis, facilitating deeper insights into tumour progression and enabling a nuanced exploration of gene expression patterns across various cancer stages and types.
+
+The webtool is available at: https://www.tnmplot.com/
+In this repository you can find the codes for the analysis done in the application. All the used data are downloaded from publicly available data repositories.
+
+## Contact
+If you have further question, please don't hesitate to contact us via: bartha.aron@semmelweis-univ.hu
