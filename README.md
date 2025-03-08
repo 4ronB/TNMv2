@@ -7,4 +7,4 @@ The webtool is available at: https://www.tnmplot.com/
 In this repository you can find the codes for the analysis done in the application. All the used data are downloaded from publicly available data repositories.
 
 ## Contact
-If you have further question, please don't hesitate to contact us via: bartha.aron@semmelweis-univ.hu
+If you have further question, please don't hesitate to contact us via: bartha.aron@semmelweis.hu
